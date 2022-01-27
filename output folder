@@ -1,0 +1,17 @@
+# cricket-board-2
+Enter the number of cricket players to enter
+3
+Enter player statistics as , runs , wickets
+ram 
+2
+3
+dhoni
+22
+4
+rajesh
+43
+1
+name		runs		wickets
+ram		3		0
+dhoni		22		4
+rajesh		43		1
